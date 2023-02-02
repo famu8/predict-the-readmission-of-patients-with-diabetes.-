@@ -1,6 +1,5 @@
 # predict-the-readmission-of-patients-with-diabetes.
 Study on the readmission of patients with diabetes (factors influencing patient readmission).
-patient).
 
 In the PDF file you can find the exploratory data analysis and the creation of machine learning models to predict the readmission of patients with diabetes.
 
